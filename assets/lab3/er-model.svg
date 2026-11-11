@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1060" height="582" viewBox="0 0 1060 582" role="img" aria-labelledby="title">
+<title id="title">Данные эксперимента</title>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#48617d"/></marker></defs>
+<rect x="0" y="0" width="1060" height="582" rx="0" fill="#ffffff"/>
+<text x="25" y="33" font-family="DejaVu Sans, sans-serif" font-size="21" font-weight="700" text-anchor="start" fill="#203249">Данные эксперимента</text>
+<text x="25" y="57" font-family="DejaVu Sans, sans-serif" font-size="13" font-weight="400" text-anchor="start" fill="#475e77">ER-диаграмма · 1 — одна запись, 0..* — любое число записей</text>
+<path d="M 287 151 L 403 151" fill="none" stroke="#48617d" stroke-width="1.5"/>
+<text x="294" y="143" font-family="DejaVu Sans, sans-serif" font-size="12" font-weight="700" text-anchor="start" fill="#203249">1</text>
+<text x="396" y="143" font-family="DejaVu Sans, sans-serif" font-size="12" font-weight="700" text-anchor="end" fill="#203249">1..*</text>
+<path d="M 655 151 L 773 151" fill="none" stroke="#48617d" stroke-width="1.5"/>
+<text x="662" y="143" font-family="DejaVu Sans, sans-serif" font-size="12" font-weight="700" text-anchor="start" fill="#203249">1</text>
+<text x="766" y="143" font-family="DejaVu Sans, sans-serif" font-size="12" font-weight="700" text-anchor="end" fill="#203249">0..*</text>
+<path d="M 287 432 L 403 432" fill="none" stroke="#48617d" stroke-width="1.5"/>
+<text x="294" y="424" font-family="DejaVu Sans, sans-serif" font-size="12" font-weight="700" text-anchor="start" fill="#203249">1</text>
+<text x="396" y="424" font-family="DejaVu Sans, sans-serif" font-size="12" font-weight="700" text-anchor="end" fill="#203249">2</text>
+<path d="M 655 432 L 773 432" fill="none" stroke="#48617d" stroke-width="1.5"/>
+<text x="662" y="424" font-family="DejaVu Sans, sans-serif" font-size="12" font-weight="700" text-anchor="start" fill="#203249">1</text>
+<text x="766" y="424" font-family="DejaVu Sans, sans-serif" font-size="12" font-weight="700" text-anchor="end" fill="#203249">0..*</text>
+<path d="M 120 235 L 120 373" fill="none" stroke="#48617d" stroke-width="1.5"/>
+<text x="129" y="252" font-family="DejaVu Sans, sans-serif" font-size="12" font-weight="700" text-anchor="start" fill="#203249">1</text>
+<text x="129" y="363" font-family="DejaVu Sans, sans-serif" font-size="12" font-weight="700" text-anchor="start" fill="#203249">0..*</text>
+<path d="M 900 235 L 900 373" fill="none" stroke="#48617d" stroke-width="1.5"/>
+<text x="909" y="252" font-family="DejaVu Sans, sans-serif" font-size="12" font-weight="700" text-anchor="start" fill="#203249">1</text>
+<text x="909" y="363" font-family="DejaVu Sans, sans-serif" font-size="12" font-weight="700" text-anchor="start" fill="#203249">2</text>
+<path d="M 247 373 L 247 292 L 725 292 L 725 208 L 773 208" fill="none" stroke="#48617d" stroke-width="1.5"/>
+<text x="258" y="359" font-family="DejaVu Sans, sans-serif" font-size="12" font-weight="700" text-anchor="start" fill="#203249">1</text>
+<text x="764" y="200" font-family="DejaVu Sans, sans-serif" font-size="12" font-weight="700" text-anchor="end" fill="#203249">0..*</text>
+<rect x="35" y="96" width="252" height="139" rx="5" fill="#ffffff" stroke="#48617d" stroke-width="1.4"/>
+<rect x="36" y="97" width="250" height="34" rx="4" fill="#edf4fc"/>
+<path d="M 35 131 L 287 131" fill="none" stroke="#48617d" stroke-width="1.5"/>
+<text x="47" y="119" font-family="DejaVu Sans, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#203249">Версия набора</text>
+<text x="47" y="153" font-family="DejaVu Sans, sans-serif" font-size="12.6" font-weight="400" text-anchor="start" fill="#203249">PK ID версии</text>
+<text x="47" y="173" font-family="DejaVu Sans, sans-serif" font-size="12.6" font-weight="400" text-anchor="start" fill="#203249">Хеш набора задач</text>
+<text x="47" y="193" font-family="DejaVu Sans, sans-serif" font-size="12.6" font-weight="400" text-anchor="start" fill="#203249">Версия итоговых тестов</text>
+<rect x="403" y="96" width="252" height="139" rx="5" fill="#ffffff" stroke="#48617d" stroke-width="1.4"/>
+<rect x="404" y="97" width="250" height="34" rx="4" fill="#edf4fc"/>
+<path d="M 403 131 L 655 131" fill="none" stroke="#48617d" stroke-width="1.5"/>
+<text x="415" y="119" font-family="DejaVu Sans, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#203249">Задача</text>
+<text x="415" y="153" font-family="DejaVu Sans, sans-serif" font-size="12.6" font-weight="400" text-anchor="start" fill="#203249">PK ID задачи</text>
+<text x="415" y="173" font-family="DejaVu Sans, sans-serif" font-size="12.6" font-weight="400" text-anchor="start" fill="#203249">FK ID версии набора</text>
+<text x="415" y="193" font-family="DejaVu Sans, sans-serif" font-size="12.6" font-weight="400" text-anchor="start" fill="#203249">Ссылки на вход и итоговые тесты</text>
+<rect x="773" y="96" width="252" height="139" rx="5" fill="#ffffff" stroke="#48617d" stroke-width="1.4"/>
+<rect x="774" y="97" width="250" height="34" rx="4" fill="#edf4fc"/>
+<path d="M 773 131 L 1025 131" fill="none" stroke="#48617d" stroke-width="1.5"/>
+<text x="785" y="119" font-family="DejaVu Sans, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#203249">Пара</text>
+<text x="785" y="153" font-family="DejaVu Sans, sans-serif" font-size="12.6" font-weight="400" text-anchor="start" fill="#203249">PK ID пары</text>
+<text x="785" y="173" font-family="DejaVu Sans, sans-serif" font-size="12.6" font-weight="400" text-anchor="start" fill="#203249">FK ID эксперимента и задачи</text>
+<text x="785" y="193" font-family="DejaVu Sans, sans-serif" font-size="12.6" font-weight="400" text-anchor="start" fill="#203249">Номер повтора</text>
+<text x="785" y="213" font-family="DejaVu Sans, sans-serif" font-size="12.6" font-weight="400" text-anchor="start" fill="#203249">Порядок выполнения A/B</text>
+<rect x="35" y="373" width="252" height="139" rx="5" fill="#ffffff" stroke="#48617d" stroke-width="1.4"/>
+<rect x="36" y="374" width="250" height="34" rx="4" fill="#edf4fc"/>
+<path d="M 35 408 L 287 408" fill="none" stroke="#48617d" stroke-width="1.5"/>
+<text x="47" y="396" font-family="DejaVu Sans, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#203249">Эксперимент</text>
+<text x="47" y="430" font-family="DejaVu Sans, sans-serif" font-size="12.6" font-weight="400" text-anchor="start" fill="#203249">PK ID эксперимента</text>
+<text x="47" y="450" font-family="DejaVu Sans, sans-serif" font-size="12.6" font-weight="400" text-anchor="start" fill="#203249">FK ID версии набора</text>
+<text x="47" y="470" font-family="DejaVu Sans, sans-serif" font-size="12.6" font-weight="400" text-anchor="start" fill="#203249">Заявленный параметр, план</text>
+<text x="47" y="490" font-family="DejaVu Sans, sans-serif" font-size="12.6" font-weight="400" text-anchor="start" fill="#203249">Модель, среда, лимит времени</text>
+<rect x="403" y="373" width="252" height="139" rx="5" fill="#ffffff" stroke="#48617d" stroke-width="1.4"/>
+<rect x="404" y="374" width="250" height="34" rx="4" fill="#edf4fc"/>
+<path d="M 403 408 L 655 408" fill="none" stroke="#48617d" stroke-width="1.5"/>
+<text x="415" y="396" font-family="DejaVu Sans, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#203249">Вариант</text>
+<text x="415" y="430" font-family="DejaVu Sans, sans-serif" font-size="12.6" font-weight="400" text-anchor="start" fill="#203249">PK ID варианта</text>
+<text x="415" y="450" font-family="DejaVu Sans, sans-serif" font-size="12.6" font-weight="400" text-anchor="start" fill="#203249">FK ID эксперимента</text>
+<text x="415" y="470" font-family="DejaVu Sans, sans-serif" font-size="12.6" font-weight="400" text-anchor="start" fill="#203249">Метка A/B · уникальна в опыте</text>
+<text x="415" y="490" font-family="DejaVu Sans, sans-serif" font-size="12.6" font-weight="400" text-anchor="start" fill="#203249">Снимок настроек и его хеш</text>
+<rect x="773" y="373" width="252" height="139" rx="5" fill="#ffffff" stroke="#48617d" stroke-width="1.4"/>
+<rect x="774" y="374" width="250" height="34" rx="4" fill="#edf4fc"/>
+<path d="M 773 408 L 1025 408" fill="none" stroke="#48617d" stroke-width="1.5"/>
+<text x="785" y="396" font-family="DejaVu Sans, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#203249">Прогон</text>
+<text x="785" y="430" font-family="DejaVu Sans, sans-serif" font-size="12.6" font-weight="400" text-anchor="start" fill="#203249">PK ID прогона</text>
+<text x="785" y="450" font-family="DejaVu Sans, sans-serif" font-size="12.6" font-weight="400" text-anchor="start" fill="#203249">FK ID пары и варианта</text>
+<text x="785" y="470" font-family="DejaVu Sans, sans-serif" font-size="12.6" font-weight="400" text-anchor="start" fill="#203249">Исход, время, токены</text>
+<text x="785" y="490" font-family="DejaVu Sans, sans-serif" font-size="12.6" font-weight="400" text-anchor="start" fill="#203249">Ссылка на журнал</text>
+<text x="35" y="550" font-family="DejaVu Sans, sans-serif" font-size="13" font-weight="400" text-anchor="start" fill="#475e77">PK — первичный ключ; FK — внешний ключ. В каждой паре две запланированные стороны: A и B.</text>
+</svg>

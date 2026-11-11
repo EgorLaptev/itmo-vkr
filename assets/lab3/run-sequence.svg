@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="736" viewBox="0 0 1100 736" role="img" aria-labelledby="title">
+<title id="title">Запуск эксперимента</title>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#48617d"/></marker></defs>
+<rect x="0" y="0" width="1100" height="736" rx="0" fill="#ffffff"/>
+<text x="25" y="33" font-family="DejaVu Sans, sans-serif" font-size="21" font-weight="700" text-anchor="start" fill="#203249">Запуск эксперимента</text>
+<text x="25" y="57" font-family="DejaVu Sans, sans-serif" font-size="13" font-weight="400" text-anchor="start" fill="#475e77">UML-диаграмма последовательности · пунктир — ответ</text>
+<rect x="15" y="88" width="176" height="42" rx="5" fill="#edf4fc" stroke="#48617d" stroke-width="1.4"/>
+<text x="103" y="114" font-family="DejaVu Sans, sans-serif" font-size="14" font-weight="700" text-anchor="middle" fill="#203249">Исследователь</text>
+<path d="M 103 130 L 103 698" fill="none" stroke="#9aacc1" stroke-width="1.5" stroke-dasharray="5 5"/>
+<rect x="234" y="88" width="176" height="42" rx="5" fill="#edf4fc" stroke="#48617d" stroke-width="1.4"/>
+<text x="322" y="114" font-family="DejaVu Sans, sans-serif" font-size="14" font-weight="700" text-anchor="middle" fill="#203249">Координатор</text>
+<path d="M 322 130 L 322 698" fill="none" stroke="#9aacc1" stroke-width="1.5" stroke-dasharray="5 5"/>
+<rect x="462" y="88" width="176" height="42" rx="5" fill="#edf4fc" stroke="#48617d" stroke-width="1.4"/>
+<text x="550" y="114" font-family="DejaVu Sans, sans-serif" font-size="14" font-weight="700" text-anchor="middle" fill="#203249">Адаптер агентов</text>
+<path d="M 550 130 L 550 698" fill="none" stroke="#9aacc1" stroke-width="1.5" stroke-dasharray="5 5"/>
+<rect x="692" y="88" width="176" height="42" rx="5" fill="#edf4fc" stroke="#48617d" stroke-width="1.4"/>
+<text x="780" y="114" font-family="DejaVu Sans, sans-serif" font-size="14" font-weight="700" text-anchor="middle" fill="#203249">Проверяющий</text>
+<path d="M 780 130 L 780 698" fill="none" stroke="#9aacc1" stroke-width="1.5" stroke-dasharray="5 5"/>
+<rect x="905" y="88" width="176" height="42" rx="5" fill="#edf4fc" stroke="#48617d" stroke-width="1.4"/>
+<text x="993" y="114" font-family="DejaVu Sans, sans-serif" font-size="14" font-weight="700" text-anchor="middle" fill="#203249">Хранилище</text>
+<path d="M 993 130 L 993 698" fill="none" stroke="#9aacc1" stroke-width="1.5" stroke-dasharray="5 5"/>
+<text x="212.5" y="154" font-family="DejaVu Sans, sans-serif" font-size="12.5" font-weight="400" text-anchor="middle" fill="#203249">A/B, параметр, версия и повторы</text>
+<path d="M 103 162 L 322 162" fill="none" stroke="#48617d" stroke-width="1.5" marker-end="url(#arrow)"/>
+<path d="M 322 182 L 427 182 L 427 211 L 322 211" fill="none" stroke="#48617d" stroke-width="1.5" marker-end="url(#arrow)"/>
+<text x="436" y="200" font-family="DejaVu Sans, sans-serif" font-size="12.5" font-weight="400" text-anchor="start" fill="#203249">Проверить сопоставимость</text>
+<rect x="27" y="222" width="1050" height="433" rx="3" fill="none" stroke="#93a8bc" stroke-width="1.4"/>
+<rect x="27" y="222" width="47" height="24" rx="3" fill="#edf4fc" stroke="#93a8bc" stroke-width="1.4"/>
+<text x="50.5" y="239" font-family="DejaVu Sans, sans-serif" font-size="12" font-weight="700" text-anchor="middle" fill="#203249">alt</text>
+<text x="83" y="239" font-family="DejaVu Sans, sans-serif" font-size="11.5" font-weight="400" text-anchor="start" fill="#475e77">[Настройки сопоставимы]</text>
+<text x="657.5" y="252" font-family="DejaVu Sans, sans-serif" font-size="12.5" font-weight="400" text-anchor="middle" fill="#203249">Сохранить снимки и план прогонов</text>
+<path d="M 322 260 L 993 260" fill="none" stroke="#48617d" stroke-width="1.5" marker-end="url(#arrow)"/>
+<rect x="242" y="278" width="818" height="291" rx="3" fill="none" stroke="#93a8bc" stroke-width="1.4"/>
+<rect x="242" y="278" width="47" height="24" rx="3" fill="#edf4fc" stroke="#93a8bc" stroke-width="1.4"/>
+<text x="265.5" y="295" font-family="DejaVu Sans, sans-serif" font-size="12" font-weight="700" text-anchor="middle" fill="#203249">loop</text>
+<text x="298" y="295" font-family="DejaVu Sans, sans-serif" font-size="11.5" font-weight="400" text-anchor="start" fill="#475e77">[Каждая запланированная сторона A/B]</text>
+<text x="436.0" y="317" font-family="DejaVu Sans, sans-serif" font-size="12.5" font-weight="400" text-anchor="middle" fill="#203249">Задача без итоговых тестов</text>
+<path d="M 322 325 L 550 325" fill="none" stroke="#48617d" stroke-width="1.5" marker-end="url(#arrow)"/>
+<text x="436.0" y="357" font-family="DejaVu Sans, sans-serif" font-size="12.5" font-weight="400" text-anchor="middle" fill="#203249">Исправление или сбой</text>
+<path d="M 550 365 L 322 365" fill="none" stroke="#48617d" stroke-width="1.5" marker-end="url(#arrow)" stroke-dasharray="5 5"/>
+<rect x="249" y="380" width="800" height="124" rx="3" fill="none" stroke="#93a8bc" stroke-width="1.4"/>
+<rect x="249" y="380" width="47" height="24" rx="3" fill="#edf4fc" stroke="#93a8bc" stroke-width="1.4"/>
+<text x="272.5" y="397" font-family="DejaVu Sans, sans-serif" font-size="12" font-weight="700" text-anchor="middle" fill="#203249">opt</text>
+<text x="305" y="397" font-family="DejaVu Sans, sans-serif" font-size="11.5" font-weight="400" text-anchor="start" fill="#475e77">[Есть исправление и осталось время]</text>
+<text x="551.0" y="432" font-family="DejaVu Sans, sans-serif" font-size="12.5" font-weight="400" text-anchor="middle" fill="#203249">Проверить исправление итоговыми тестами в оставшееся время</text>
+<path d="M 322 440 L 780 440" fill="none" stroke="#48617d" stroke-width="1.5" marker-end="url(#arrow)"/>
+<text x="551.0" y="472" font-family="DejaVu Sans, sans-serif" font-size="12.5" font-weight="400" text-anchor="middle" fill="#203249">Результат тестов или сбой</text>
+<path d="M 780 480 L 322 480" fill="none" stroke="#48617d" stroke-width="1.5" marker-end="url(#arrow)" stroke-dasharray="5 5"/>
+<text x="657.5" y="522" font-family="DejaVu Sans, sans-serif" font-size="12.5" font-weight="400" text-anchor="middle" fill="#203249">Сохранить конечный исход, метрики и журнал</text>
+<path d="M 322 530 L 993 530" fill="none" stroke="#48617d" stroke-width="1.5" marker-end="url(#arrow)"/>
+<text x="650" y="551" font-family="DejaVu Sans, sans-serif" font-size="11.5" font-weight="400" text-anchor="middle" fill="#475e77">При ошибке записи остановить эксперимент</text>
+<text x="212.5" y="588" font-family="DejaVu Sans, sans-serif" font-size="12.5" font-weight="400" text-anchor="middle" fill="#203249">Сводка и неполные пары</text>
+<path d="M 322 596 L 103 596" fill="none" stroke="#48617d" stroke-width="1.5" marker-end="url(#arrow)" stroke-dasharray="5 5"/>
+<path d="M 27 609 L 1077 609" fill="none" stroke="#93a8bc" stroke-width="1.5" stroke-dasharray="5 5"/>
+<text x="44" y="627" font-family="DejaVu Sans, sans-serif" font-size="11.5" font-weight="400" text-anchor="start" fill="#475e77">[Настройки несопоставимы]</text>
+<text x="212.5" y="639" font-family="DejaVu Sans, sans-serif" font-size="12.5" font-weight="400" text-anchor="middle" fill="#203249">Отказ и список отличий</text>
+<path d="M 322 647 L 103 647" fill="none" stroke="#48617d" stroke-width="1.5" marker-end="url(#arrow)" stroke-dasharray="5 5"/>
+</svg>
